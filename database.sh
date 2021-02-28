@@ -1,6 +1,6 @@
 #!/bin/bash
-echo this database if for ebay client
-echo only add authrorized files
+echo this database is for ebay client
+echo only add authorized files
 #list of users
 Simon
 Elvis
